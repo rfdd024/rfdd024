@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=Raf.id&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Junior20%Full-Stack%20Developer%20%7C%20Creative%20Technologist&descAlignY=52&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=Raf.id&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Junior%20Full-Stack%20Developer%20%7C%20Creative%20Technologist&descAlignY=52&descAlign=50)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=4A9EFF&center=true&vCenter=true&width=500&lines=Transforming+Ideas+Into+Reality;Building+Scalable+Solutions;Always+Learning+%26+Growing)](https://git.io/typing-svg)
 
@@ -69,7 +69,7 @@ Goal: Create impactful solutions that solve real problems
 
 ### 📫 Let's Connect
 
-📧 [your.email@example.com](mailto:YOUR_EMAIL) • 💼 [LinkedIn](YOUR_LINKEDIN) • 🌐 [Portfolio]([YOUR_PORTFOLIO](https://rafidefriadi.vercel.app)
+📧 [your.email@example.com](mailto:YOUR_EMAIL) • 💼 [LinkedIn](YOUR_LINKEDIN) • 🌐 [Portfolio](https://rafidefriadi.vercel.app)
 
 ---
 
