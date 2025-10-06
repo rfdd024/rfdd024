@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Rafid!
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff5733,100:ffc300&height=200&section=header&text=Rafid%20Efriadi&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=FF5733&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B+I'm+Rafid!;IT+Learner+%26+Web+Dev+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
 
 ![GitHub followers](https://img.shields.io/github/followers/rafid824?style=social)
