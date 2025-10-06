@@ -73,7 +73,7 @@ Goal: Create impactful solutions that solve real problems
 💡  
 *"Everybody in this country should learn to program a computer, because it teaches you how to think."*  
 
-— **Steve Jobs (Pendiri Apple)** 
+— **Steve Jobs** 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rafidefriadi&color=4A9EFF&style=flat-square)
 
