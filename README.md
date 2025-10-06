@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=Rafidi&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Creative%20Technologist&descAlignY=52&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=Raf.id&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Creative%20Technologist&descAlignY=52&descAlign=50)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=4A9EFF&center=true&vCenter=true&width=500&lines=Transforming+Ideas+Into+Reality;Building+Scalable+Solutions;Always+Learning+%26+Growing)](https://git.io/typing-svg)
 
@@ -67,20 +67,10 @@ Goal: Create impactful solutions that solve real problems
 
 ---
 
-📊 Measurable Stats
-<div align="center"> <!-- GitHub Stats -->
-
-<!-- Most Used Languages -->
-
-<!-- Streak Stats -->
-
-<!-- Activity Graph -->
-
-</div>
-
 ### 📫 Let's Connect
 
-**Open for opportunities, collaborations, and tech discussions.**
+**Steve Jobs (Pendiri Apple):
+"Everybody in this country should learn to program a computer, because it teaches you how to think."**
 
 📧 [your.email@example.com](mailto:YOUR_EMAIL) • 💼 [LinkedIn](YOUR_LINKEDIN) • 🌐 [Portfolio](YOUR_PORTFOLIO)
 
