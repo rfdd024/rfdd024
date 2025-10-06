@@ -67,6 +67,17 @@ Goal: Create impactful solutions that solve real problems
 
 ---
 
+📊 Measurable Stats
+<div align="center"> <!-- GitHub Stats -->
+
+<!-- Most Used Languages -->
+
+<!-- Streak Stats -->
+
+<!-- Activity Graph -->
+
+</div>
+
 ### 📫 Let's Connect
 
 **Open for opportunities, collaborations, and tech discussions.**
