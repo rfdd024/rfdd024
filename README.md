@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=Raf.id&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Junior%20Full-Stack%20Developer%20%7C%20Creative%20Technologist&descAlignY=52&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=Raf.id&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Create%20Something%20Great%20%7C%20Creative%20Technologist&descAlignY=52&descAlign=50)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=4A9EFF&center=true&vCenter=true&width=500&lines=Transforming+Ideas+Into+Reality;Building+Scalable+Solutions;Always+Learning+%26+Growing)](https://git.io/typing-svg)
 
@@ -15,8 +15,7 @@
 ### 👨‍💻 About Me
 
 ```typescript
-const rafidi = {
-  location: "South Sumatra, Indonesia 🇮🇩",
+const raf.id = {
   role: "Full-Stack Developer & IT Enthusiast",
   focus: ["Web Development", "UI/UX", "Database Design", "APIs"],
   currently: "Building innovative web solutions",
@@ -61,27 +60,24 @@ Scalable web platform with clean architecture. [Live Demo →](YOUR_DEMO_LINK)
 ```yaml
 Building: Scalable web applications with modern frameworks
 Learning: Cloud architecture & system design patterns
-Open to: Collaborations on innovative projects
 Goal: Create impactful solutions that solve real problems
 ```
+<div>
+  <!-- Open to: Collaborations on innovative projects -->
+</div>
 
 ---
 
-### 📫 Let's Connect
+<div align="center">
 
-📧 [your.email@example.com](mailto:YOUR_EMAIL) • 💼 [LinkedIn](YOUR_LINKEDIN) • 🌐 [Portfolio](https://rafidefriadi.vercel.app)
+💡  
+*"Everybody in this country should learn to program a computer, because it teaches you how to think."*  
 
----
+— **Steve Jobs (Pendiri Apple)** 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/💡%20Steve%20Jobs-Quote-blue?style=for-the-badge" alt="Quote"/>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=rafidefriadi&color=4A9EFF&style=flat-square)
 
-<p align="center">
-  <i>"Everybody in this country should learn to program a computer, because it teaches you how to think."</i>
-</p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=4A9EFF&style=flat-square)
+</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=100&section=footer)
 
