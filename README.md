@@ -1,34 +1,49 @@
 # 👋 Hi, I'm Rafid!
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff5733,100:ffc300&height=200&section=header&text=Rafid%20Efriadi&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Rafid%20Efriadi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Learner%20%7C%20Web%20Dev%20Enthusiast&descAlignY=55&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=FF5733&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B+I'm+Rafid!;IT+Learner+%26+Web+Dev+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" alt="cat typing">
+</p>
 
-![GitHub followers](https://img.shields.io/github/followers/rafid824?style=social)
-![Profile views](https://komarev.com/ghpvc/?username=rafid824&label=Profile%20views&color=0e75b6&style=flat)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=4FACFE&center=true&vCenter=true&lines=Hi+there!+%F0%9F%91%8B;I'm+Rafid%2C+IT+Learner;Passionate+in+Web+Development;Always+Learning+New+Things)](https://git.io/typing-svg)
+
+---
 
 ## 🚀 About Me
-- 🔥 Hi, I'm **Rafid**! An IT learner and Website Development Enthusiast 🚀  
-- 🎯 I enjoy turning ideas into real applications, especially creative projects.  
-- 🌱 Always learning something new and building cool stuff.  
+- 💻 IT Learner and Website Development Enthusiast  
+- 🎯 Turning ideas into real-world applications  
+- 🌱 Passionate about creative and innovative projects  
+- 🐱 Cat lover & always coding with curiosity  
 
 ## 🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
-![Rafid's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafid824&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafid824&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafid824&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafid824&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
 ## 🌐 Connect with Me
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)
-[![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+<p align="center">
+  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ## 📈 Activity Graph
-![Rafid's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafid824&theme=react-dark)
+![Rafid's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafid824&theme=tokyo-night)
 
 ---
 
-💡 Fun fact: "Code is like humor. When you have to explain it, it’s bad."
+<p align="center">
+  <img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="250" alt="cat coding">
+</p>
+
+💡 *"Code is like a cat: it won’t do what you want, but it will surprise you in the best way."*
