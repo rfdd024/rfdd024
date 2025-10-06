@@ -75,7 +75,9 @@ Goal: Create impactful solutions that solve real problems
 
 — **Steve Jobs** 
 
-![Profile Views](https://komarev.com/ghpvc/?username=rafidefriadi&color=4A9EFF&style=flat-square)
+<div>  
+  <!-- ![Profile Views](https://komarev.com/ghpvc/?username=rafidefriadi&color=4A9EFF&style=flat-square) -->
+</div>
 
 </div>
 
