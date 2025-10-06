@@ -69,6 +69,10 @@ Goal: Create impactful solutions that solve real problems
 
 ### 📫 Let's Connect
 
+📧 [your.email@example.com](mailto:YOUR_EMAIL) • 💼 [LinkedIn](YOUR_LINKEDIN) • 🌐 [Portfolio]([YOUR_PORTFOLIO](https://rafidefriadi.vercel.app)
+
+---
+
 <p align="center">
   <img src="https://img.shields.io/badge/💡%20Steve%20Jobs-Quote-blue?style=for-the-badge" alt="Quote"/>
 </p>
@@ -76,14 +80,6 @@ Goal: Create impactful solutions that solve real problems
 <p align="center">
   <i>"Everybody in this country should learn to program a computer, because it teaches you how to think."</i>
 </p>
-
-📧 [your.email@example.com](mailto:YOUR_EMAIL) • 💼 [LinkedIn](YOUR_LINKEDIN) • 🌐 [Portfolio]([YOUR_PORTFOLIO](https://rafidefriadi.vercel.app)
-
----
-
-<div align="center">
-
-**"Code is poetry written in logic."**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=4A9EFF&style=flat-square)
 
