@@ -16,7 +16,7 @@
 
 ```typescript
 const raf.id = {
-  role: "Full-Stack Developer & IT Enthusiast",
+  role: "Full-Stack Developer & Data science",
   focus: ["Web Development", "UI/UX", "Database Design", "APIs"],
   currently: "Building innovative web solutions",
   passion: "Turning creative ideas into production apps"
@@ -36,7 +36,6 @@ const raf.id = {
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwind-css)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
