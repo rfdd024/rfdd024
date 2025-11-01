@@ -43,14 +43,8 @@ const raf.id = {
 
 ### 🚀 Featured Projects
 
-**[Project Name 1](https://github.com/YOUR_USERNAME/PROJECT_1)** • `React` `Node.js` `MongoDB`  
-Full-stack application with real-time features and modern UI. [Live Demo →](YOUR_DEMO_LINK)
-
-**[Project Name 2](https://github.com/YOUR_USERNAME/PROJECT_2)** • `Next.js` `TypeScript` `PostgreSQL`  
-Enterprise-level solution with SSR and optimized performance. [Live Demo →](YOUR_DEMO_LINK)
-
-**[Project Name 3](https://github.com/YOUR_USERNAME/PROJECT_3)** • `Vue.js` `Express` `MySQL`  
-Scalable web platform with clean architecture. [Live Demo →](YOUR_DEMO_LINK)
+**[Handgesture Detector](https://github.com/rfdd024/Handgesture-detector.git)** • `Python`
+Real-time hand gesture detection application.
 
 ---
 
