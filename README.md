@@ -44,7 +44,12 @@ const raf.id = {
 ### 🚀 Featured Projects
 
 **[Handgesture Detector](https://github.com/rfdd024/Handgesture-detector.git)** • `Python`
+
 Real-time hand gesture detection application.
+
+**[WordCraft](https://github.com/rfdd024/WordCraft.git)** • `Python`
+
+A simple Python project that helps in learning English vocabulary.
 
 ---
 
