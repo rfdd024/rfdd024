@@ -34,7 +34,6 @@ const raf.id = {
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwind-css)
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 
