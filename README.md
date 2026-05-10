@@ -4,9 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=4A9EFF&center=true&vCenter=true&width=500&lines=Transforming+Ideas+Into+Reality;Building+Scalable+Solutions;Always+Learning+%26+Growing)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=safari&logoColor=white)](https://rafidefriadi.vercel.app)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=safari&logoColor=white)](https://rafidefriadi.my.id)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/rafidefriadi)
 
 </div>
 
@@ -16,7 +15,7 @@
 
 ```typescript
 const raf.id = {
-  role: "Full-Stack Developer & Data science",
+  role: "Full-Stack Developer",
   focus: ["Web Development", "UI/UX", "Database Design", "APIs"],
   currently: "Building innovative web solutions",
   passion: "Turning creative ideas into production apps"
